@@ -6,7 +6,7 @@ Author: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)\
 
 
 
-![XLIP](IMG_3755.PNG)
+![XLIP](image_first_0302_1-2.png)
 
 ## Introduction
 
