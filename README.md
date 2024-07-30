@@ -1,4 +1,8 @@
-# XLIP: X-ray Language-Image Pre-training
+# XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training
+
+Author: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)\*, [Yutong Xie](https://scholar.google.com/citations?user=ddDL9HMAAAAJ&hl=zh-CN)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), [Minh Hieu Phan](https://scholar.google.com/citations?user=gSEw8EsAAAAJ&hl=en), [Qi Chen](https://scholar.google.com/citations?user=OgKU77kAAAAJ&hl=zh-CN), [Ling Chen](https://scholar.google.com.au/citations?hl=en&user=L5aYWQcAAAAJ&view_op=list_works&sortby=pubdate), [Qi Wu](https://scholar.google.co.uk/citations?user=aKXe1FEAAAAJ&hl=en)⁺
+
+*Contributed Equally. ⁺Corresponding author: qi.wu01@adelaide.edu.au.
 
 
 
