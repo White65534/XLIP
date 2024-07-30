@@ -20,6 +20,11 @@ Vision-and-language pretraining (VLP) in the medical field utilizes contrastive 
 
 XLIP (X-ray Language-Image Pre-training) is a multimodal model designed to bridge the gap between medical text and X-ray images. Inspired by OpenAI's CLIP, XLIP aims to provide a unified feature space for both text and images, specifically focusing on the medical domain.
 
+## Citation
+```
+TBD
+```
+
 ## Features
 
 - **Multimodal Understanding**: XLIP is trained to understand both text and X-ray images, facilitating various downstream medical tasks.
