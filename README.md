@@ -10,7 +10,7 @@ Author: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)\
 
 ## News
 
-**[07/30/2024]** Our paper has been prompted by [**CVer**](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=8855158522148252&group_id=142181451122&inviter_id=28514284588581)!
+**[07/30/2024]** 🎉🎉 Our paper has been prompted by [**CVer**](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=8855158522148252&group_id=142181451122&inviter_id=28514284588581)!
 
 ## Abstract
 
