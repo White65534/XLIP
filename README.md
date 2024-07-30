@@ -4,7 +4,7 @@ Author: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)\
 
 *Contributed Equally. ⁺Corresponding author: qi.wu01@adelaide.edu.au.
 
-
+[[Paper Link](https://arxiv.org/pdf/2407.19546)]
 
 ![XLIP](image_first_0302_1-2.png)
 
