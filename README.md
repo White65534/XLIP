@@ -22,7 +22,12 @@ XLIP (X-ray Language-Image Pre-training) is a multimodal model designed to bridg
 
 ## Citation
 ```
-TBD
+@article{wu2024xlip,
+  title={XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training},
+  author={Wu, Biao and Xie, Yutong and Zhang, Zeyu and Phan, Minh Hieu and Chen, Qi and Chen, Ling and Wu, Qi},
+  journal={arXiv preprint arXiv:2407.19546},
+  year={2024}
+}
 ```
 
 ## Features
